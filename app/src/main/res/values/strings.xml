@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="roll">Roll</string>
+    <string name="roll_button_2">Roll Button 2</string>
+    <string name="roll_button_1">Roll Button 1</string>
+</resources>
