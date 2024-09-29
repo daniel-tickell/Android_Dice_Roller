@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.diceroller"
+    namespace = "com.tnbk00.diceroller"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.diceroller"
+        applicationId = "com.tnbk00.diceroller"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

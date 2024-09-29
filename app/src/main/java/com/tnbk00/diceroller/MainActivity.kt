@@ -1,4 +1,4 @@
-package com.example.diceroller
+package com.tnbk00.diceroller
 
 import android.os.Bundle
 import android.widget.Button
